@@ -19,7 +19,7 @@ Introducció a la programació per blocs amb Scratch
 
 Amb l’Snap! podem anar encara més lluny!.  Demo sobre funcions i recursivitat amb Snap! (Sierspinky) i  entorn dinàmic amb una sínia interactiva amb 0 línies de codi.
 
-![Fractals amb Snap!]({{site.baseurl}}/img/clubprog1_2.png "Fractals amb Snap!” =640x200)
+<img src={{site.baseurl}}/img/clubprog1_2.png  alt=“Fractals amb Snap!” width=“640”>
 
 En “primícia mundial” mostren GP (General Purpose/ Guinea Pig) llenguatge de programació per blocs, dinàmic i de propòsit general, en versió alfa. Es proposa formar un grup de testeig per ajudar als desenvolupadors a millorar-lo.
 
