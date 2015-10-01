@@ -1,6 +1,6 @@
-name: S4A Blog
-description: The S4A Blog
+name: Edutec Blog
+description: Edutec Blog
 markdown: redcarpet
 pygments: true
-baseurl: http://blog.s4a.cat
-url: http://blog.s4a.cat
+baseurl: http://edutec.github.io/blog
+url: http://edutec.github.io/blog
