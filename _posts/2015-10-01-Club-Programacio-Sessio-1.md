@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Clubs Citilab: Programació 1a Sessió
+title: Clubs Citilab - Programació 1a Sessió
 ---
 
-## Primera sessió Club Programació
+##Primera sessió Club Programació
 
 10 participants. El més petit 10 anys, els més grans van jugar al [Asteroids](https://en.wikipedia.org/wiki/Asteroids_%28video_game%29) de petits.
 
