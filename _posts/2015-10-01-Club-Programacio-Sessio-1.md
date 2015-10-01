@@ -3,6 +3,11 @@ layout: post
 title: Clubs Citilab - Programació 1a Sessió
 ---
 
+<<<<<<< HEAD
+=======
+##Primera sessió Club Programació
+
+>>>>>>> origin/gh-pages
 10 participants. El més petit 10 anys, els més grans van jugar al [Asteroids](https://en.wikipedia.org/wiki/Asteroids_%28video_game%29) de petits.
 
 La tercera part tenen pocs coneixments de programació, però moltes ganes d’aprendre.
