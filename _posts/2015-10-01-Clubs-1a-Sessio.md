@@ -11,7 +11,7 @@ La tercera part tenen pocs coneixments de programació, però moltes ganes d’a
 
 La meitat mostren interès en el tema de la creació de Jocs.
 
-![Club Prog 1a Sessió](../img/clubprog1_1.jpg)
+![Club Prog 1a Sessió]({{site.baseurl}}/img/clubprog1_1.jpg "Club Prog 1a Sessió”)
 
 Per part del Citilab comencen amb:
 
@@ -19,8 +19,7 @@ Introducció a la programació per blocs amb Scratch
 
 Amb l’Snap! podem anar encara més lluny!.  Demo sobre funcions i recursivitat amb Snap! (Sierspinky) i  entorn dinàmic amb una sínia interactiva amb 0 línies de codi.
 
-
-![Fractals amb Snap!](img/clubprog1_2.png)
+![Fractals amb Snap!]({{site.baseurl}}/img/clubprog1_2.png "Fractals amb Snap!”)
 
 En “primícia mundial” mostren GP (General Purpose/ Guinea Pig) llenguatge de programació per blocs, dinàmic i de propòsit general, en versió alfa. Es proposa formar un grup de testeig per ajudar als desenvolupadors a millorar-lo.
 
