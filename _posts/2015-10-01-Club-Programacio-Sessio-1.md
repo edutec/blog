@@ -29,11 +29,11 @@ Dels projectes inicials i de les propostes dels participants surten 3 línies de
 
 **Jocs**
 
-*Exploració de diferents entorns de creació de Jocs. Scratch, phaser.io, pixi.js, love with Lua, Unity, Stencyl, …
+- Exploració de diferents entorns de creació de Jocs. Scratch, phaser.io, pixi.js, love with Lua, Unity, Stencyl, …
 
-*Construir un parell de jocs per aprofitar aquesta recerca.
+- Construir un parell de jocs per aprofitar aquesta recerca.
 
-*Documentar “snippets” que es pugin fer sevir per crear nous jocs.
+- Documentar “snippets” que es pugin fer sevir per crear nous jocs.
 
 **Crear una història interactiva amb Scratch**. La base serà una nova forma d’explicar l’increible món dels diftongs i els hiats.
 
