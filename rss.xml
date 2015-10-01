@@ -5,8 +5,8 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>S4A Blog</title>
-    <link>http://blog.s4a.cat</link>
-    <description>The S4A Blog</description>
+    <title>Edutec Blog</title>
+    <link>http://edutec.github.io/blog</link>
+    <description>Edutec Blog</description>
   </channel>
 </rss>
