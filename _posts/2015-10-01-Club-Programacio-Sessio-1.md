@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Clubs Citilab: Programació 1a Sessió
+title: Clubs Citilab - Programació 1a Sessió
 ---
-
-## Primera sessió Club Programació
 
 10 participants. El més petit 10 anys, els més grans van jugar al [Asteroids](https://en.wikipedia.org/wiki/Asteroids_%28video_game%29) de petits.
 
@@ -11,7 +9,7 @@ La tercera part tenen pocs coneixments de programació, però moltes ganes d’a
 
 La meitat mostren interès en el tema de la creació de Jocs.
 
-<img src={{site.baseurl}}/img/clubprog1_1.jpg alt=‘Club Prog 1a Sessió’ width=‘640’>
+<img src={{site.baseurl}}/img/clubprog1_1.jpg alt=Club Prog 1a Sessió width=640>
 
 Per part del Citilab comencen amb:
 
@@ -19,7 +17,7 @@ Introducció a la programació per blocs amb Scratch
 
 Amb l’Snap! podem anar encara més lluny!.  Demo sobre funcions i recursivitat amb Snap! (Sierspinky) i  entorn dinàmic amb una sínia interactiva amb 0 línies de codi.
 
-<img src={{site.baseurl}}/img/clubprog1_2.png  alt=‘Fractals amb Snap!’ width=‘640’>
+<img src={{site.baseurl}}/img/clubprog1_2.png  alt=Fractals amb Snap! width=640>
 
 En “primícia mundial” mostren GP (General Purpose/ Guinea Pig) llenguatge de programació per blocs, dinàmic i de propòsit general, en versió alfa. Es proposa formar un grup de testeig per ajudar als desenvolupadors a millorar-lo.
 
