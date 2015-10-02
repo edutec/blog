@@ -8,5 +8,34 @@
     <title>Edutec Blog</title>
     <link>http://edutec.github.io/blog</link>
     <description>Edutec Blog</description>
+    <pubDate>Fri, 02 Oct 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Clubs Citilab - Makers 1a Sessió</title>
+      <link>http://edutec.github.io/blog/2015/10/02/Club-Makers-Sessio-1.html</link>
+      <description>&lt;p&gt;Ahir es va celebrar la primera reunió del club de makers. Aquí teniu un petit resum del que s&amp;#39;hi va parlar.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 +0200</pubDate>
+      <guid>http://edutec.github.io/blog/2015/10/02/Club-Makers-Sessio-1.html</guid>
+      <dc:date>2015-10-02T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Clubs Citilab - Programació 1a Sessió</title>
+      <link>http://edutec.github.io/blog/2015/10/01/Club-Programacio-Sessio-1.html</link>
+      <description>&lt;p&gt;10 participants. El més petit 10 anys, els més grans van jugar al &lt;a href=&quot;https://en.wikipedia.org/wiki/Asteroids_%28video_game%29&quot;&gt;Asteroids&lt;/a&gt; de petits.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      <guid>http://edutec.github.io/blog/2015/10/01/Club-Programacio-Sessio-1.html</guid>
+      <dc:date>2015-10-01T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Nou blog d'Edutec</title>
+      <link>http://edutec.github.io/blog/2015/10/01/Blog-Edutec.html</link>
+      <description>&lt;p&gt;En aquest blog informarem de les activitats, novetats i línies de recerca d&amp;#39;Edutec.&lt;/p&gt;
+</description>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      <guid>http://edutec.github.io/blog/2015/10/01/Blog-Edutec.html</guid>
+      <dc:date>2015-10-01T00:00:00+02:00</dc:date>
+    </item>
+    <dc:date>2015-10-02T00:00:00+02:00</dc:date>
   </channel>
 </rss>
