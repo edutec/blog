@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clubs Citilab - Programació 1a Sessió
+title: Clubs Citilab - Programació 2a Sessió
 ---
 
 En aquesta nova sessió ens trobem 7 participants i els membres de l'equip Edutec. Donem la benvinguda a l’Antonio.
