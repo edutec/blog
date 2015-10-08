@@ -31,8 +31,7 @@ En quan als entorns treballarem amb:
 
 Per acabar, la Rita va portar els elements per construir un petit robot ,que van anar muntanat durant tota la sessió i que finalment va ballar per nosaltres.
 
-   
 
-	<iframe width="480" height="360" src="https://www.youtube.com/embed/1R9ewkdEVGE" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/1R9ewkdEVGE" frameborder="0"> </iframe>
 
 
